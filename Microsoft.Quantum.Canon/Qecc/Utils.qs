@@ -54,7 +54,7 @@ namespace Microsoft.Quantum.Canon {
 	/// # Input
 	/// ## code
 	/// A quantum error-correcting code packaged as a `QECC` type describes 
-    /// the encoding and deconding of quantum data, and how error syndromes 
+    /// the encoding and decoding of quantum data, and how error syndromes 
     /// are to be measuremed.
 	/// ## fn
     /// A `RecoveryFn` that maps each error syndrome to the `Pauli[]` operations
